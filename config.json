@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "web-interface-rest-api",
+      "title": "Web Interface for a REST API",
+      "description": "Build a browser interface for the FastAPI book catalog using JavaScript fetch.",
+      "path": "assignments/web-interface-rest-api",
+      "dueDate": "2026-11-16",
+      "attachments": [
+        {
+          "name": "HTML Starter Page",
+          "file": "index.html",
+          "type": "html"
+        }
+      ]
     }
   ]
 }
